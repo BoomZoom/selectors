@@ -2,7 +2,7 @@
 
 /* les paragraphes */
 
-{
+.zone p {
   color: #0f5132;
   background-color: #d1e7dd;
   border: #badbcc 2px solid;
@@ -12,7 +12,7 @@
 
 /* les images */
 
-{
+.zone img {
   max-width: 200px;
   height: auto;
   border-radius: 50%;

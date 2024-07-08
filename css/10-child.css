@@ -1,21 +1,22 @@
 /* écris les sélecteurs en en dessous du commentaire correspondant */
 
- {
+.zone header h1 {
   color: orange;
 }
 
-{
+.zone .container {
   width: 75%;
   background-color: #ff7e7e;
+  color: blue;
   padding: 2rem;
   margin: 1rem 0;
 }
 
- {
+article img {
   width: 30%;
 }
 
-{
+article p {
   background-color: #ffffff;
   padding: 1rem;
 }

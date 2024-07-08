@@ -2,18 +2,18 @@
 
 /* titre de niveau 1 */
 
-{
+h2#important {
   color: rgb(246, 108, 108);
 }
 
 /* titre de niveau 2 */
 
-{
+h3#info {
   color: rgb(204, 253, 131);
 }
 
 /* titre de niveau 3 */
 
-{
+h4#calme {
   color: rgb(130, 195, 248);
 }

@@ -1,15 +1,15 @@
 /* écris les sélecteurs en en dessous du commentaire correspondant */
 
- {
+div.zone > header , div.zone > article, div.zone > footer {
   border: dashed orange 2px;
   margin: 10px;
 }
 
- {
+div.zone > header > h1 {
   color: orange;
   text-align: center;
 }
 
-{
+div.zone > footer  p{
   font-style: italic;
 }

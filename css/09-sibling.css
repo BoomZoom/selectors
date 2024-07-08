@@ -1,6 +1,6 @@
 /* écris les sélecteurs en en dessous du commentaire correspondant */
 
- {
+hr+p {
   margin: 0 0 30px 0;
   font-size: smaller;
   font-style: italic;

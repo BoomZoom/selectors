@@ -2,9 +2,19 @@
 
 /* Sélectionne la bonne div grâce à la descendance! */ 
 
-{
+div.zone > div > div > div > div > div > div > div { 
   background-color: #f5c2c7 ;
   width: fit-content;
+  color: brown;
+  margin: 0 auto;
+  -webkit-animation: vibrate-3 0.5s linear infinite both;
+  animation: vibrate-3 0.5s linear infinite both;
+}
+
+div.zone div:has(> p:only-child) {
+  background-color: #f5c2c7 ;
+  width: fit-content;
+  color: brown;
   margin: 0 auto;
   -webkit-animation: vibrate-3 0.5s linear infinite both;
   animation: vibrate-3 0.5s linear infinite both;

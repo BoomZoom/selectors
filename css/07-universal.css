@@ -2,7 +2,7 @@
 
 /* Tout doit vibrer!! */
 
- {
+.zone {
 	-webkit-animation: vibrate-3 0.3s linear infinite both;
 	        animation: vibrate-3 0.3s linear infinite both;
 }
