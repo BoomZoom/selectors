@@ -1,0 +1,13 @@
+/* écris les sélecteurs en en dessous du commentaire correspondant */
+
+/* Sélectionne la bonne div grâce à la descendance! */ 
+
+{
+  background-color: #f5c2c7 ;
+  width: fit-content;
+  margin: 0 auto;
+  -webkit-animation: vibrate-3 0.5s linear infinite both;
+  animation: vibrate-3 0.5s linear infinite both;
+}
+
+/* Alors si tu as la bonne solution, bravo. Cependant ce n'est pas une bonne pratique! On est ici dans l'enfer des div, c'est ingérable, mais c'est marrant dans le cadre de cet exercice! */

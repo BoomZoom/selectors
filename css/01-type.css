@@ -1,0 +1,19 @@
+/* écris les sélecteurs en en dessous du commentaire correspondant */
+
+/* les paragraphes */
+
+{
+  color: #0f5132;
+  background-color: #d1e7dd;
+  border: #badbcc 2px solid;
+  padding: 1rem;
+}
+
+
+/* les images */
+
+{
+  max-width: 200px;
+  height: auto;
+  border-radius: 50%;
+}

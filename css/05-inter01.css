@@ -1,0 +1,7 @@
+/* écris les sélecteurs en en dessous du commentaire correspondant */
+
+{
+  font-size: 5rem;
+  -webkit-animation: vibrate-3 0.5s linear infinite both;
+  animation: vibrate-3 0.5s linear infinite both;
+}

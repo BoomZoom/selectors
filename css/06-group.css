@@ -1,0 +1,15 @@
+/* écris les sélecteurs en en dessous du commentaire correspondant */
+
+ {
+  border: dashed orange 2px;
+  margin: 10px;
+}
+
+ {
+  color: orange;
+  text-align: center;
+}
+
+{
+  font-style: italic;
+}
